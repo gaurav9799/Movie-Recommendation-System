@@ -37,3 +37,6 @@ This project was developed by Gaurav Purohit and is based on the dataset from Ka
 ## License
 
 This project is licensed under the MIT License.
+
+### Video Documentation: https://youtu.be/4PI7bZlk1Gw
+### Model for web hosting: https://github.com/gaurav9799/Movie-Recommendation-System/blob/main/app.py
